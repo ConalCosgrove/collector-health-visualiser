@@ -3,6 +3,10 @@ Web app which shows the status of the collectors connected to a refocus instance
 
 ## Setup
 
+- Clone this repo `git clone https://github.com/ConalCosgrove/collector-health-visualiser`
+
+- Run `npm install`
+
 This app required a few env vars to work correctly:
 
 - URL - url of refocus instance to connect to
