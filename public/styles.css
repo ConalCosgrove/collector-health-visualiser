@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+#collectors {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#collectorActive {
+  background-color: rgb(0, 199, 0);
+  padding:10px;
+  margin:10px;
+  width: 10vw;
+  text-align: center;
+}
+
+#collectorMissedHb {
+  background-color: rgb(218, 9, 9);
+  padding:10px;
+  margin:10px;
+  width: 10vw;
+  text-align: center;
+}
+
+#collectorUndefined {
+  background-color: rgb(218, 9, 9);
+  padding:10px;
+  margin:10px;
+  width: 10vw;
+  text-align: center;
+}
